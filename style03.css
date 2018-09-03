@@ -1,0 +1,28 @@
+body{
+	background: url("last page.jpg");
+background-size: 100%;
+	background-repeat: no-repeat;
+	background size: 100% 700px;
+
+
+}
+body h1{
+	font-size: 60px;
+margin: 80px 25px 50px 300px;
+font-family: 'Dancing script', cursive;
+
+ color: white;
+}
+body h2{
+	font size: 40px;
+	margin: 80px 25px 50px 300px;
+color: white;
+font-family: 'Dancing script', cursive;
+
+}
+body h3{
+	margin: 80px 25px 50px 300px;
+ color: white;
+font-family: 'Dancing script', cursive;
+
+}
